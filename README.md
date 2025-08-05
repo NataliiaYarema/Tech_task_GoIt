@@ -1,6 +1,6 @@
 # 📊 Technical Task for Junior Data Analyst Position
 
-### 👩‍💻 Prepared by: Natalia Yarema  
+### 👩‍💻 Prepared by: Nataliia Yarema  
 📧 **Email:** yarema.analytics@gmail.com  
 📱 **Phone:** +34 602 576 907  
 🔗 **LinkedIn:** [linkedin.com/in/natalia-yarema](https://linkedin.com/in/natalia-yarema)  
