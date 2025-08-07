@@ -22,7 +22,7 @@ This repository contains the completed technical task for the Junior Data Analys
 | [🛢 SQL](Tech_task_SQL.ipynb) | SQL queries for data extraction and analysis |
 | [🐍 Python](Tech_task_Python.ipynb) | Python scripts for data processing, functions, and logic |
 | [🧮 Pandas](Tech_task_Pandas.ipynb) | Data analysis using the pandas library |
-| [🧪 A/B Testing]() | Evaluation of experiment results and statistical significance |
+| [🧪 A/B Testing](Tech_task_A_B_testing.ipynb) | Evaluation of experiment results and statistical significance |
 | [📘 Theoretical Questions](Tech_task_Theor_Quest-checkpoint.ipynb) | Answers to key theoretical questions in data analytics |
 | [🧠 Logic Challenge](Logic_challenge.ipynb) | Solution to a logic-based task |
 
